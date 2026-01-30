@@ -9,18 +9,46 @@ citations-hover: false
 
 # Annual Review Article
 
-@annualrevarticle
-
+@craiuSixStatisticalSenses2023
 
 # References
 
 @ref1
 
-- Summary
+-   Summary
 
-- Reliability and relationship to the topic
+    @fisherCausesHumanVariability1919 states that it is very easy to control the variability of a population. The author speaks of Biometry and how its' facts don't contradict. He speaks that we could completely estimate a numeric percentage of variability due to heritable factors, and that no more than 5% of the variance of physical measurements of man is due to non-heritable factors.
 
-- Missing pieces
-    - thing 1
+-   Reliability and relationship to the topic
 
-    - thing 2
+    R.A. Fisher was a British Polymath who lived from 1890-1962. He was known by some as "the greatest scientist of his time" and he made many contributions to experimental design and population genetics. He is also known as "The Father of Modern Statistics and Experimental Design." It is safe to say that him and is work are reliable and should be deemed accurate.
+
+-   Missing pieces
+
+    -   thing 1
+
+        I don't know that much about variability to fully understand the things he's talking about.
+
+    -   thing 2
+
+        The author's dialect is different from what I see in articles today, so some of the terminology or phrasing is unfamiliar to me.
+
+    Reference 2
+
+-   Summary
+
+The author of @finetti2017 wanted to publish another writing on probability to make it easy for the average reader to apply the topics to their own studies. He says that this book is really written for everybody, because probability is the uncertainty that we all have in our lives.
+
+-   Reliability
+
+Bruno de Finetti (1906-1985) was known as the greatest Italian applied mathematician of the 20th century. He gained a wide reputation for the many publishings that he wrote. It is safe to say that his work and findings are credible.
+
+-   Missing Things
+
+    -   Thing 1
+
+        I am just now taking a class on probability, so the material is confusing when advanced topics are discussed.
+
+    -   Thing 2
+
+        I don't quite understand his meaning on how probability pertains to something much larger in our society.
